@@ -1,2 +1,2 @@
 # portfolio
-I'm a technical Product Manager who sometimes code, enjoy some of it!
+I'm a Product Manager who sometimes code, enjoy some of it!
